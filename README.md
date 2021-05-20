@@ -1,6 +1,7 @@
 # 2021SW_LSTM-storm
 
 https://zenodo.org/badge/327795171.svg
+https://zenodo.org/badge/latestdoi/327795171
 
 Paper #2021SW (Journal of Space Weather)
 
