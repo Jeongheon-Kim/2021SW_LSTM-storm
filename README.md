@@ -1,5 +1,7 @@
 # 2021SW_LSTM-storm
 
+https://zenodo.org/badge/327795171.svg
+
 Paper #2021SW (Journal of Space Weather)
 
 Title: "Potential of regional ionosphere prediction using a long short-term memory (LSTM) deep-learning algorithm specialized for geomagnetic storm period"
