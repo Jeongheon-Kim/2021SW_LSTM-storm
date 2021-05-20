@@ -14,4 +14,5 @@ Data:
 
 The uploaded data (Optimal hyper parameters, PN ratio data Test #1~#5 data) are the data used to make the figures of this paper. I used the correlation coefficient, Root Meas Square Error (RMSE), and Mean Absolute Percentage Error (MAPE) as the performance skill scores. The correlation coefficient values are obtained using the REGRESS function of the IDL program, and the RMSE, MAPE, and RD are calculated using the equations as described in paper, respectively.
 
-Data Target : https://zenodo.org/badge/latestdoi/327795171
+Data Target : https://doi.org/10.5281/zenodo.4776395
+              https://zenodo.org/badge/DOI/10.5281/zenodo.4776395.svg
