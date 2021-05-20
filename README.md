@@ -1,8 +1,5 @@
 # 2021SW_LSTM-storm
 
-https://zenodo.org/badge/327795171.svg
-https://zenodo.org/badge/latestdoi/327795171
-
 Paper #2021SW (Journal of Space Weather)
 
 Title: "Potential of regional ionosphere prediction using a long short-term memory (LSTM) deep-learning algorithm specialized for geomagnetic storm period"
@@ -16,3 +13,5 @@ In our previous study (Moon et al., 2020), we developed a Long Short Term Memory
 Data:
 
 The uploaded data (Optimal hyper parameters, PN ratio data Test #1~#3 data) are the data used to make the figures of this paper. I used the correlation coefficient, Root Meas Square Error (RMSE), and Mean Absolute Percentage Error (MAPE) as the performance skill scores. The correlation coefficient values are obtained using the REGRESS function of the IDL program, and the RMSE, MAPE, and RD are calculated using the equations as described in paper, respectively.
+
+Data Target : https://zenodo.org/badge/latestdoi/327795171
